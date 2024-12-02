@@ -1,0 +1,2 @@
+pillow==11.0.0
+pytwain==2.3.0
